@@ -5,7 +5,7 @@ I'm Chaitanya Chandurkar, a full-stack engineer who loves working in the diverse
 Programming languages that I work most with 😄 :<br />
 Scala > NodeJs / JavaScript / TypeScript > Python > Java 
 
-### Things that I work on 🔭
+### Things I work on 🔭
 - Database design and advanced SQL queries (postgres > other SQL databases > elasticsearch > MongoDB).
 - Data aggregation pipelines (streaming and batch) in Apache Spark.
 - Data Lakes (S3, Parquet, Hive, Presto)
@@ -14,7 +14,7 @@ Scala > NodeJs / JavaScript / TypeScript > Python > Java
 
 ### Occupation 👨🏼‍💻
 - I'm currently working at McGraw-Hill Education as a Senior Software Engineer
-- Before that I was pursuing master's in UMass Dartmouth and was a research assistant under Dr. Koop.
+- Before that I was pursuing master's in Computer and Information Science at UMass Dartmouth and was a Research Assistant.
 
 ### Contact 📫
 Get in touch. Drop me a line. 
