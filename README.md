@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chaitanya Chandurkar, a full-stack engineer who loves working in the diverse tech stack, with a passion for writing small utility apps in NodeJs and Data Science. I build effectively scalable data infrastructure and write highly optimized data aggregation pipelines in Apache Spark using Scala.
+I'm Chaitanya Chandurkar, a full-stack engineer who loves working in the diverse tech stack ranging from small utility apps in NodeJs to writing scalable data aggregation pipelines in Apache Spark and Scala. 
 
 Programming languages that I work most with 😄 :<br />
 Scala > NodeJs / JavaScript / TypeScript > Python > Java 
