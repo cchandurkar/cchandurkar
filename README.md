@@ -13,7 +13,7 @@ Scala > NodeJs / JavaScript / TypeScript > Python > Java
 - UI in Angular (intermediate)
 
 ### Occupation 👨🏼‍💻
-- I'm currently working at McGraw-Hill Education as a Senior Software Engineer
+- I'm currently working at McGraw-Hill Education as a Senior Software Engineer.
 - Before that I was pursuing master's in Computer and Information Science at UMass Dartmouth and was a Research Assistant.
 
 ### Contact 📫
