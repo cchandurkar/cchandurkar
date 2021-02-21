@@ -12,6 +12,8 @@ Scala > NodeJs / JavaScript / TypeScript > Python > Java > PHP
 - REST APIs in NodeJs and Scala
 - UI in Angular (intermediate)
 
+[![NPM](https://nodei.co/npm/json-schema-to-case-class.png)](https://nodei.co/npm/json-schema-to-case-class/)
+
 ### Occupation 👨🏼‍💻
 - I'm currently working at McGraw-Hill Education as a Senior Software Engineer.
 - Before that I was pursuing master's in Computer and Information Science at UMass Dartmouth and was a Research Assistant.
