@@ -15,7 +15,7 @@ Scala > NodeJs / JavaScript / TypeScript > Python > Java > PHP
 [![NPM](https://nodei.co/npm/json-schema-to-case-class.png)](https://nodei.co/npm/json-schema-to-case-class/)
 
 ### Occupation 👨🏼‍💻
-- I'm currently working at McGraw-Hill Education as a Senior Software Engineer.
+- I'm currently working at @stripe on a financial data.
 - Before that I was pursuing master's in Computer and Information Science at UMass Dartmouth and was a Research Assistant.
 
 ### Contact 📫
