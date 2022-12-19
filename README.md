@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][4.1]][4]
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+[![alt text][4.2]][4]
+[![alt text][1.2]][1]
+[![alt text][2.2]][2]
+[![alt text][3.2]][3]
 
 
 
@@ -33,9 +33,13 @@ Here are some ideas to get you started:
 <!-- icons with padding -->
 
 [1.1]: https://icon-icons.com/icons2/99/PNG/48/twitter_socialnetwork_17445.png (twitter icon with padding)
+[1.2]: https://cdn.icon-icons.com/icons2/1753/PNG/48/iconfinder-social-media-applications-6twitter-4102580_113802.png (twitter 2 icon with padding)
 [2.1]: https://icon-icons.com/icons2/99/PNG/48/facebook_socialnetwork_17442.png (facebook icon with padding)
+[2.2]: https://cdn.icon-icons.com/icons2/1753/PNG/48/iconfinder-social-media-applications-1facebook-4102573_113807.png (facebook 2 icon with padding)
 [3.1]: https://icon-icons.com/icons2/99/PNG/48/linkedin_socialnetwork_17441.png (linkedin icon with padding)
+[3.2]: https://cdn.icon-icons.com/icons2/1753/PNG/48/iconfinder-social-media-applications-14linkedin-4102586_113786.png (linkedin no padding)
 [4.1]: https://icon-icons.com/icons2/317/PNG/48/envelope-icon_34446.png (email icon with padding)
+[4.2]: https://cdn.icon-icons.com/icons2/1826/PNG/48/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png (gemail icon with padding)
 
 <!-- icons without padding -->
 
