@@ -1,25 +1,7 @@
 ### Hi there 👋
 
-I'm Chaitanya Chandurkar, a full-stack engineer who loves working in the diverse tech stack ranging from building small utility apps in NodeJs/Angular/Electron to writing scalable data aggregation pipelines in Apache Spark and Scala. I love writing code to build something productive, beautiful and efficient.
-
-### Languages I love working with 😄
-Scala, NodeJs/JavaScript/TypeScript, Java and Python
-
-### Things I work on 🔭
-- Data aggregation pipelines (streaming and batch) in Apache Spark.
-- Data Lakes (S3, Parquet, Hive, Presto)
-- REST APIs in NodeJs and Scala
-- UI in Angular (intermediate)
-
-[![NPM](https://nodei.co/npm/json-schema-to-case-class.png)](https://nodei.co/npm/json-schema-to-case-class/)
-
-### Occupation 👨🏼‍💻
-- I'm currently working at @stripe on a financial data warehouse.
-- [2016-2021] I was at McGraw-Hill Education working in Analytics and Reporting team. 
-- [2014-2016] I was pursuing master's in Computer and Information Science at UMass Dartmouth and was a Research Assistant.
-
+I'm Chaitanya Chandurkar, a full-stack engineer who loves working in the diverse tech stack ranging from building small utility apps in NodeJs/Angular/Electron to writing scalable data aggregation pipelines in Apache Spark and Scala.
 ### Contact 📫
-Get in touch. Drop me a line. 
 
 <!--
 **cchandurkar/cchandurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
