@@ -24,9 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
+<div align="center">
+  
+### Work
+🧪 Looking for beta testers for [NodePad.app](https://cchandurkar.github.io/NodePad/) <br />
+🧑‍🏭 Looking for more contributors for [json-schema-to-case-class](https://www.npmjs.com/package/json-schema-to-case-class)
+</div>
+<br/ >
 <div align="center">
   
 ### Connect
@@ -38,10 +42,8 @@ Here are some ideas to get you started:
   
 </div>
 <br/ >
-<div align="center">
-  
+<!-- <div align="center">
 ### Things I work on
-  
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,7 +60,7 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-</div>
+</div> -->
 
 [badge-linkedin]: https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 [badge-twitter]: https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge
