@@ -3,8 +3,7 @@
   
 ### Hi there 👋
 
-I'm Chaitanya Chandurkar, a full-stack engineer who loves working in the diverse tech stack ranging from building small utility apps in NodeJs/Angular/Electron to writing scalable data aggregation pipelines in Apache Spark and Scala.
-  
+I'm Chaitanya Chandurkar, a Software Engineer who enjoys working in the diverse tech stack ranging from building small utility apps in NodeJs/Angular/Electron to writing scalable data aggregation pipelines in Apache Spark, Scala and Python.
 </div>
 <br/ >
 
