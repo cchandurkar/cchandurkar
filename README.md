@@ -1,7 +1,13 @@
+
+<div align="center">
+  
 ### Hi there 👋
 
 I'm Chaitanya Chandurkar, a full-stack engineer who loves working in the diverse tech stack ranging from building small utility apps in NodeJs/Angular/Electron to writing scalable data aggregation pipelines in Apache Spark and Scala.
-### Contact 📫
+  
+</div>
+<br/ >
+
 
 <!--
 **cchandurkar/cchandurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,40 +24,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- display the social media buttons in your README -->
-
-[![alt text][4.2]][4]
-[![alt text][1.2]][1]
-[![alt text][2.2]][2]
-[![alt text][3.2]][3]
 
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
+<div align="center">
+  
+### Connect
+  
+[![alt text][badge-linkedin]][url-linkedin]
+[![alt text][badge-gmail]][url-gmail]
+[![alt text][badge-twitter]][url-twitter]
+[![alt text][badge-discord]][url-discord]
+  
+</div>
+<br/ >
+<div align="center">
+  
+### Things I work on
+  
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+<br />
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+</div>
 
-<!-- icons with padding -->
-
-[1.1]: https://icon-icons.com/icons2/99/PNG/48/twitter_socialnetwork_17445.png (twitter icon with padding)
-[1.2]: https://cdn.icon-icons.com/icons2/1753/PNG/48/iconfinder-social-media-applications-6twitter-4102580_113802.png (twitter 2 icon with padding)
-[2.1]: https://icon-icons.com/icons2/99/PNG/48/facebook_socialnetwork_17442.png (facebook icon with padding)
-[2.2]: https://cdn.icon-icons.com/icons2/1753/PNG/48/iconfinder-social-media-applications-1facebook-4102573_113807.png (facebook 2 icon with padding)
-[3.1]: https://icon-icons.com/icons2/99/PNG/48/linkedin_socialnetwork_17441.png (linkedin icon with padding)
-[3.2]: https://cdn.icon-icons.com/icons2/1753/PNG/48/iconfinder-social-media-applications-14linkedin-4102586_113786.png (linkedin no padding)
-[4.1]: https://icon-icons.com/icons2/317/PNG/48/envelope-icon_34446.png (email icon with padding)
-[4.2]: https://cdn.icon-icons.com/icons2/1826/PNG/48/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png (gemail icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[badge-linkedin]: https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+[badge-twitter]: https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge
+[badge-discord]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
+[badge-gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[badge-gmail-white]: https://img.shields.io/badge/-GMAIL-fff?logo=gmail&logoColor=DB4437&style=for-the-badge&link=mailto:cchandurkar@gmail.com
 
 
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
 
-[1]: https://www.twitter.com/cchandurkar
-[2]: https://www.facebook.com/chaitanya.chandurkar
-[3]: https://www.linkedin.com/in/cchandurkar/
-[4]: mailto:cchandurkar@gmail.com
+[url-twitter]: https://www.twitter.com/cchandurkar
+[url-fb]: https://www.facebook.com/chaitanya.chandurkar
+[url-linkedin]: https://www.linkedin.com/in/cchandurkar
+[url-discord]: https://discordapp.com/users/cchandurkar#5574
+[url-gmail]: mailto:connect@cchandurkar.me
