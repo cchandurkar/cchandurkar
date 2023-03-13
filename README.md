@@ -1,9 +1,10 @@
 
 <div align="center">
-  
-### Hi there 👋
+<br/ >
 
-I'm Chaitanya Chandurkar, a Software Engineer who enjoys working in the diverse tech stack ranging from building small utility apps in NodeJs/Angular/Electron to writing scalable data aggregation pipelines in Apache Spark, Scala and Python.
+### Hello 👋 
+  
+I'm Chaitanya - a Software Engineer who enjoys working in the diverse tech stack ranging from building small utility apps in NodeJs/Angular/Electron to writing scalable data aggregation pipelines in Apache Spark, Scala and Python.
 </div>
 <br/ >
 
@@ -25,9 +26,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-### Work
-🧪 Looking for beta testers for [NodePad.app](https://cchandurkar.github.io/NodePad/) <br />
-🧑‍🏭 Looking for more contributors for [json-schema-to-case-class](https://www.npmjs.com/package/json-schema-to-case-class)
+### I'm looking for
+💠 Beta testers for [NodePad.app](https://cchandurkar.github.io/NodePad/) <br />
+💠 More contributors for [json-schema-to-case-class](https://www.npmjs.com/package/json-schema-to-case-class)
 </div>
 <br/ >
 <div align="center">
@@ -73,4 +74,4 @@ Here are some ideas to get you started:
 [url-fb]: https://www.facebook.com/chaitanya.chandurkar
 [url-linkedin]: https://www.linkedin.com/in/cchandurkar
 [url-discord]: https://discordapp.com/users/cchandurkar#5574
-[url-gmail]: mailto:connect@cchandurkar.me
+[url-gmail]: mailto:cchandurkar@gmail.com
