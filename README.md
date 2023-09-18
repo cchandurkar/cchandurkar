@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
 ### I'm looking for
 💠 Beta testers for [NodePad.app](https://cchandurkar.github.io/NodePad/) <br />
-💠 More contributors for [json-schema-to-case-class](https://www.npmjs.com/package/json-schema-to-case-class)
+💠 Contributors for [json-schema-to-case-class](https://www.npmjs.com/package/json-schema-to-case-class)
 </div>
 <br/ >
 <div align="center">
