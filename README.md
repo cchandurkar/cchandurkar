@@ -10,19 +10,9 @@ I'm Chaitanya - a Software Engineer who enjoys working in the diverse tech stack
 
 <div align="center">
   
-### Currently at Gopuff
+### Currently at [Gopuff](https://gopuff.com)</a>
   
 As a Senior Data Engineer at Gopuff, I'm working on building a contract-driven scalable data platform that automates the ingestion of data from Kafka into flattened Snowflake tables
-
-<br />
-If you haven't tried Gopuff yet, certainly a good day to get started!
-
-Here’s $20.00 to use on Gopuff, just cuz I love you. Get your daily essentials, delivered free in minutes!
-
-<img src="https://github.com/cchandurkar/cchandurkar/assets/2879791/15f2f48c-6e4b-4ecc-b376-bb3ba244c7c3" width="200" />
-
-Register here
-[rb.gy/i2jjf](https://rb.gy/i2jjf)
 
 </div>
 <br/ >
