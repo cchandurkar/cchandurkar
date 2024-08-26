@@ -8,15 +8,6 @@ I'm Chaitanya - a Software Engineer who enjoys working in the diverse tech stack
 </div>
 <br/ >
 
-<div align="center">
-  
-### Currently at [Gopuff](https://gopuff.com)</a>
-  
-As a Senior Data Engineer at Gopuff, I'm working on building a contract-driven scalable data platform that automates the ingestion of data from Kafka into flattened Snowflake tables
-
-</div>
-<br/ >
-
 <!--
 **cchandurkar/cchandurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
