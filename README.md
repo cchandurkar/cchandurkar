@@ -8,6 +8,13 @@ I'm Chaitanya - a Software Engineer who enjoys working in the diverse tech stack
 </div>
 <br/ >
 
+<div align="center">
+  
+![badge-website]
+
+</div>
+
+
 <!--
 **cchandurkar/cchandurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -61,6 +68,7 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 </div> -->
 
+[badge-website]: https://img.shields.io/badge/Personal%20Website%20&%20Resume-8A2BE2?style=for-the-badge&link=https://cchandurkar.me
 [badge-linkedin]: https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 [badge-twitter]: https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge
 [badge-discord]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
