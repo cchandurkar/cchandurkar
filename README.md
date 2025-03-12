@@ -10,7 +10,7 @@ I'm Chaitanya - a Software Engineer who enjoys working in the diverse tech stack
 
 <div align="center">
   
-![badge-website]
+[![alt text][badge-website]][url-website]
 
 </div>
 
@@ -77,6 +77,7 @@ Here are some ideas to get you started:
 
 
 
+[url-website]: https://cchandurkar.me
 [url-twitter]: https://www.twitter.com/cchandurkar
 [url-fb]: https://www.facebook.com/chaitanya.chandurkar
 [url-linkedin]: https://www.linkedin.com/in/cchandurkar
