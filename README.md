@@ -32,13 +32,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-### I'm looking for
-💠 Beta testers for [NodePad.app](https://cchandurkar.github.io/NodePad/) <br />
-💠 Contributors for [json-schema-to-case-class](https://www.npmjs.com/package/json-schema-to-case-class)
-</div>
-<br/ >
-<div align="center">
-  
 ### Connect
   
 [![alt text][badge-linkedin]][url-linkedin]
