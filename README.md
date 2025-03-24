@@ -6,6 +6,7 @@
   
 I'm Chaitanya - a Software Engineer who enjoys working in the diverse tech stack ranging from building small utility apps in NodeJs/Angular/Electron to writing scalable data aggregation pipelines in Apache Spark, Scala and Python.
 </div>
+<!-- 
 <br/ >
 
 <div align="center">
@@ -13,7 +14,7 @@ I'm Chaitanya - a Software Engineer who enjoys working in the diverse tech stack
 [![alt text][badge-website]][url-website]
 
 </div>
-
+-->
 
 <!--
 **cchandurkar/cchandurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
